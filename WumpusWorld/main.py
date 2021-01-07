@@ -1,5 +1,4 @@
-#Assignment 2
-#Devin Macalalad dtm97, Jeffrey Docker jmd623, Saqib Nawaz sn59, Oren Mendelow
+
 #requires pygame, use pip install pygame
 
 import pygame
